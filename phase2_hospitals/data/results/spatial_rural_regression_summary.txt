@@ -1,0 +1,49 @@
+============================================================================
+EPS = 5 km
+============================================================================
+M1: log nearest competing-cluster distance
+  rural coefficient = 0.7849  HC1 SE = 0.0068  p = 0  implied difference = 119.22%  N = 30,160
+M2: log isolation ratio, multi-hospital clusters
+  rural coefficient = 1.0938  HC1 SE = 0.0616  p = 1.591e-70  implied difference = 198.56%  N = 4,676
+M3: log within-cluster mean dispersion, multi-hospital clusters
+  rural coefficient = -0.2291  HC1 SE = 0.0596  p = 0.0001198  implied difference = -20.47%  N = 4,676
+
+============================================================================
+EPS = 10 km
+============================================================================
+M1: log nearest competing-cluster distance
+  rural coefficient = 0.3494  HC1 SE = 0.0059  p = 0  implied difference = 41.83%  N = 24,915
+M2: log isolation ratio, multi-hospital clusters
+  rural coefficient = 0.7811  HC1 SE = 0.0576  p = 6.921e-42  implied difference = 118.38%  N = 4,423
+M3: log within-cluster mean dispersion, multi-hospital clusters
+  rural coefficient = -0.4569  HC1 SE = 0.0556  p = 2.025e-16  implied difference = -36.67%  N = 4,423
+
+============================================================================
+EPS = 15 km
+============================================================================
+M1: log nearest competing-cluster distance
+  rural coefficient = 0.1740  HC1 SE = 0.0054  p = 1.982e-228  implied difference = 19.00%  N = 22,131
+M2: log isolation ratio, multi-hospital clusters
+  rural coefficient = 0.3234  HC1 SE = 0.0547  p = 3.401e-09  implied difference = 38.18%  N = 4,101
+M3: log within-cluster mean dispersion, multi-hospital clusters
+  rural coefficient = -0.2319  HC1 SE = 0.0529  p = 1.166e-05  implied difference = -20.69%  N = 4,101
+
+============================================================================
+EPS = 20 km
+============================================================================
+M1: log nearest competing-cluster distance
+  rural coefficient = 0.0735  HC1 SE = 0.0052  p = 4.908e-46  implied difference = 7.63%  N = 19,546
+M2: log isolation ratio, multi-hospital clusters
+  rural coefficient = -0.1669  HC1 SE = 0.0465  p = 0.0003358  implied difference = -15.37%  N = 4,022
+M3: log within-cluster mean dispersion, multi-hospital clusters
+  rural coefficient = 0.1658  HC1 SE = 0.0448  p = 0.0002123  implied difference = 18.03%  N = 4,022
+
+============================================================================
+EPS = 25 km
+============================================================================
+M1: log nearest competing-cluster distance
+  rural coefficient = 0.0406  HC1 SE = 0.0053  p = 2.481e-14  implied difference = 4.14%  N = 16,294
+M2: log isolation ratio, multi-hospital clusters
+  rural coefficient = -0.6298  HC1 SE = 0.0402  p = 3.063e-55  implied difference = -46.73%  N = 4,112
+M3: log within-cluster mean dispersion, multi-hospital clusters
+  rural coefficient = 0.6366  HC1 SE = 0.0385  p = 2.233e-61  implied difference = 89.01%  N = 4,112

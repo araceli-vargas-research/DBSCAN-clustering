@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.key
+secrets.*
+credentials.*
+
+# Raw downloaded datasets
+data/raw/
+
+# Large temporary/download files
+*.zip
+*.gz
+*.tar
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large research data / reproducible generated outputs
+phase2_hospitals/data/raw/hcahps_2023.csv
+phase2_hospitals/data/spatial/hospital_clusters_all_eps.csv
+
+# Large research data / reproducible generated outputs
+phase2_hospitals/data/raw/hcahps_2023.csv
+phase2_hospitals/data/spatial/hospital_clusters_all_eps.csv
+
+# Large research data / generated outputs
+phase2_hospitals/data/raw/hcahps_2023.csv
+phase2_hospitals/data/spatial/hospital_clusters_all_eps.csv

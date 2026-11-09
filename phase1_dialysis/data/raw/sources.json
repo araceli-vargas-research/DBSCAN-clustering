@@ -1,0 +1,83 @@
+[
+  {
+    "snapshot": "2019-10-31",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2019-10-31.zip",
+    "archive_member": "DFC_SOCRATA_FAC_DATA.csv",
+    "file": "data/raw/facility_2019-10-31.csv",
+    "bytes": 8579925,
+    "sha256": "65ca21938107d93751df570e4c75a77185813eef49f6c97f2f601622df627449",
+    "retrieved_utc": "2026-10-07T00:48:57.621401+00:00"
+  },
+  {
+    "snapshot": "2020-10-31",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2020-10-31.zip",
+    "archive_member": "23ew-n7w9.csv",
+    "file": "data/raw/facility_2020-10-31.csv",
+    "bytes": 6535405,
+    "sha256": "9248c501740c77aad54532bed60abd65d78c0b597728ce5cc8adfe6d2a7293e8",
+    "retrieved_utc": "2026-10-07T00:48:57.627637+00:00"
+  },
+  {
+    "snapshot": "2021-04-12",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2021-04-12.zip",
+    "archive_member": "23ew-n7w9.csv",
+    "file": "data/raw/facility_2021-04-12.csv",
+    "bytes": 6535405,
+    "sha256": "9248c501740c77aad54532bed60abd65d78c0b597728ce5cc8adfe6d2a7293e8",
+    "retrieved_utc": "2026-10-07T00:48:57.633814+00:00"
+  },
+  {
+    "snapshot": "2022-11-16",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2022-11-16.zip",
+    "archive_member": "DFC_FACILITY.csv",
+    "file": "data/raw/facility_2022-11-16.csv",
+    "bytes": 5701644,
+    "sha256": "957f868862b1cfa85dfa828f154283ff35629a96f7d6ebb8cbb6fe712ad43e75",
+    "retrieved_utc": "2026-10-07T00:48:57.639214+00:00"
+  },
+  {
+    "snapshot": "2023-04-26",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2023-04-26.zip",
+    "archive_member": "DFC_FACILITY.csv",
+    "file": "data/raw/facility_2023-04-26.csv",
+    "bytes": 5517292,
+    "sha256": "e3d7103d908f1ca76918a274bf4334b6586ee21420ade0c5958b4d319677c616",
+    "retrieved_utc": "2026-10-07T00:48:57.642893+00:00"
+  },
+  {
+    "snapshot": "2023-10-25",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2023-10-25.zip",
+    "archive_member": "DFC_FACILITY.csv",
+    "file": "data/raw/facility_2023-10-25.csv",
+    "bytes": 6308110,
+    "sha256": "d442bc576265fdf84a185168050e6c3ae4e919ad3e4626af2efa4ce54631449d",
+    "retrieved_utc": "2026-10-07T00:48:57.647000+00:00"
+  },
+  {
+    "snapshot": "2024-10-23",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2024-10-23.zip",
+    "archive_member": "DFC_FACILITY.csv",
+    "file": "data/raw/facility_2024-10-23.csv",
+    "bytes": 6887005,
+    "sha256": "ca5c909afbb2bd28ac05b79d7a1c54338adef98eb54dc7e3cbb2ae187e61eefd",
+    "retrieved_utc": "2026-10-07T00:48:57.653364+00:00"
+  },
+  {
+    "snapshot": "2025-11-20",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2025-11-20.zip",
+    "archive_member": "DFC_FACILITY.csv",
+    "file": "data/raw/facility_2025-11-20.csv",
+    "bytes": 6856732,
+    "sha256": "127f6e66fcf4f00edcd2823c50a9c0cde58fd210a87d9e82c820ca72bbd9ff4f",
+    "retrieved_utc": "2026-10-07T00:48:57.657932+00:00"
+  },
+  {
+    "snapshot": "2026-07-15",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/dialysis-facilities/dialysis-facilities_2026-07-15.zip",
+    "archive_member": "23ew-n7w9_2026-06-16_DFC_FACILITY.csv",
+    "file": "data/raw/facility_2026-07-15.csv",
+    "bytes": 7263788,
+    "sha256": "02a7155f9797fe3194f220e765eb8ac511cbc1402e286c3e235a3157ba7cee5f",
+    "retrieved_utc": "2026-10-07T00:48:57.663528+00:00"
+  }
+]

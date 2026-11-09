@@ -1,0 +1,315 @@
+facility_id,facility_name,year,prior_observed_year,state,county,county_fips,prior_ownership_category,ownership_category,rucc_2023,verification_status
+010022,FLOYD CHEROKEE MEDICAL CENTER,2024,2023,AL,CHEROKEE,01019,voluntary non-profit - private,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+010102,J PAUL JONES HOSPITAL,2024,2023,AL,WILCOX,01131,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+010120,MONROE COUNTY HOSPITAL,2023,2022,AL,MONROE,01099,government - local,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+010125,LAKELAND COMMUNITY HOSPITAL,2024,2023,AL,WINSTON,01133,voluntary non-profit - church,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+010138,HILL HOSPITAL OF SUMTER COUNTY,2022,2021,AL,SUMTER,01119,voluntary non-profit - other,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+010164,COOSA VALLEY MEDICAL CENTER,2020,2019,AL,TALLADEGA,01121,voluntary non-profit - other,government - hospital district or authority,4.0,UNVERIFIED: category change is not evidence of merger
+011300,WASHINGTON COUNTY HOSPITAL,2022,2021,AL,WASHINGTON,01129,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+021305,SEARHC WRANGELL MEDICAL CENTER-CAH,2022,2021,AK,WRANGELL CITY AND BOROUGH,02275,government - local,tribal,9.0,UNVERIFIED: category change is not evidence of merger
+021308,NORTON SOUND REGIONAL HOSPITAL,2020,2019,AK,NOME,02180,government,tribal,9.0,UNVERIFIED: category change is not evidence of merger
+021312,SAMUEL SIMMONDS MEMORIAL HOSPITAL,2021,2020,AK,North Slope,02185,government - federal,tribal,9.0,UNVERIFIED: category change is not evidence of merger
+021314,SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM,2026,2025,AK,SITKA BOROUGH,02220,voluntary non-profit - private,tribal,7.0,UNVERIFIED: category change is not evidence of merger
+031305,HOPI HEALTH CARE CENTER,2020,2019,AZ,NAVAJO,04017,government,tribal,4.0,UNVERIFIED: category change is not evidence of merger
+040002,JOHNSON REGIONAL MEDICAL CENTER,2024,2023,AR,JOHNSON,05071,government - local,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+040015,MENA REGIONAL HEALTH SYSTEM,2022,2021,AR,POLK,05113,government - local,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+040017,NORTH ARKANSAS REGIONAL MEDICAL CENTER,2020,2019,AR,BOONE,05009,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+040047,FIVE RIVERS MEDICAL CENTER,2020,2019,AR,RANDOLPH,05121,voluntary non-profit - private,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+040069,GREAT RIVER MEDICAL CENTER,2020,2019,AR,MISSISSIPPI,05093,voluntary non-profit - other,government - local,4.0,UNVERIFIED: category change is not evidence of merger
+040779,ST BERNARDS FIVE RIVERS MEDICAL CENTER,2026,2025,AR,RANDOLPH,05121,government - local,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+040782,SOUTH MISSISSIPPI COUNTY REGIONAL MEDICAL CENTER,2026,2025,AR,MISSISSIPPI,05093,government - state,government - local,4.0,UNVERIFIED: category change is not evidence of merger
+041300,MERCY HOSPITAL PARIS,2023,2022,AR,LOGAN,05083,voluntary non-profit - church,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+041302,DARDANELLE HOSPITAL,2020,2019,AR,YELL,05149,proprietary,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+041304,EUREKA SPRINGS HOSPITAL COMMISSION,2020,2019,AR,CARROLL,05015,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+041306,"IZARD COUNTY MEDICAL CENTER, LLC",2020,2019,AR,BAXTER,05005,voluntary non-profit - private,proprietary,7.0,UNVERIFIED: category change is not evidence of merger
+041306,IZARD REGIONAL HOSPITAL LLC,2025,2024,AR,BAXTER,05005,proprietary,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+041309,LAWRENCE MEMORIAL HOSPITAL,2021,2020,AR,Lawrence,05075,government - local,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+041322,FULTON COUNTY HOSPITAL,2023,2022,AR,FULTON,05049,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+041329,MERCY HOSPITAL BERRYVILLE,2022,2021,AR,CARROLL,05015,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+041332,UNITY HEALTH - NEWPORT,2026,2025,AR,JACKSON,05067,voluntary non-profit - private,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+050301,ADVENTIST HEALTH UKIAH VALLEY,2025,2024,CA,MENDOCINO,06045,voluntary non-profit - church,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+051306,GLENN MEDICAL CENTER,2024,2023,CA,GLENN,06021,government - federal,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+051310,ADVENTIST HEALTH HOWARD MEMORIAL,2026,2025,CA,MENDOCINO,06045,voluntary non-profit - church,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+051317,ADVENTIST HEALTH CLEARLAKE,2020,2019,CA,LAKE,06033,voluntary non-profit - church,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+051325,ADVENTIST HEALTH MENDOCINO COAST,2026,2025,CA,MENDOCINO,06045,government - hospital district or authority,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+051327,SENECA DISTRICT HOSPITAL,2024,2023,CA,PLUMAS,06063,voluntary non-profit - other,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+060117,"ANIMAS SURGICAL HOSPITAL, LLC",2022,2021,CO,LA PLATA,08067,physician,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+060117,"ANIMAS SURGICAL HOSPITAL, LLC",2026,2025,CO,LA PLATA,08067,proprietary,physician,6.0,UNVERIFIED: category change is not evidence of merger
+061300,WEISBROD MEMORIAL COUNTY HOSPITAL,2020,2019,CO,KIOWA,08061,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+061300,WEISBROD MEMORIAL COUNTY HOSPITAL,2024,2023,CO,KIOWA,08061,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+061301,RIO GRANDE HOSPITAL,2024,2023,CO,RIO GRANDE,08105,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+061303,EAST MORGAN COUNTY HOSPITAL,2023,2022,CO,MORGAN,08087,government - hospital district or authority,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+100156,LAKE CITY MEDICAL CENTER,2020,2019,FL,COLUMBIA,12023,voluntary non-profit - private,proprietary,4.0,UNVERIFIED: category change is not evidence of merger
+110051,UNION GENERAL HOSPITAL,2025,2024,GA,UNION,13291,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+110073,DORMINY MEDICAL CENTER,2020,2019,GA,BEN HILL,13017,government - hospital district or authority,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+110104,CRISP REGIONAL HOSPITAL,2024,2023,GA,CRISP,13081,government - hospital district or authority,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+111308,CLINCH MEMORIAL HOSPITAL,2020,2019,GA,CLINCH,13065,government - local,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+111334,CANDLER COUNTY HOSPITAL,2024,2023,GA,CANDLER,13043,government - hospital district or authority,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+131312,ST LUKE'S MCCALL,2023,2022,ID,VALLEY,16085,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+131315,SYRINGA GENERAL HOSPITAL,2025,2024,ID,IDAHO,16049,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+140001,GRAHAM HOSPITAL ASSOCIATION,2020,2019,IL,FULTON,17057,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+140160,FHN MEMORIAL HOSPITAL,2022,2021,IL,STEPHENSON,17177,voluntary non-profit - private,voluntary non-profit - other,4.0,UNVERIFIED: category change is not evidence of merger
+140160,FHN MEMORIAL HOSPITAL,2026,2025,IL,STEPHENSON,17177,voluntary non-profit - other,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+141300,THOMAS H BOYD MEMORIAL HOSPITAL,2023,2022,IL,GREENE,17061,voluntary non-profit - private,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+141318,OSF HOLY FAMILY MEDICAL CENTER,2020,2019,IL,WARREN,17187,voluntary non-profit - private,voluntary non-profit - church,6.0,UNVERIFIED: category change is not evidence of merger
+141320,PARIS COMMUNITY HOSPITAL,2020,2019,IL,EDGAR,17045,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+141337,OSF SAINT CLARE MEDICAL CENTER,2025,2024,IL,BUREAU,17011,government - local,voluntary non-profit - church,7.0,UNVERIFIED: category change is not evidence of merger
+150061,DAVIESS COMMUNITY HOSPITAL,2020,2019,IN,DAVIESS,18027,voluntary non-profit - other,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+150115,MEMORIAL HOSPITAL AND HEALTH CARE CENTER,2020,2019,IN,DUBOIS,18037,voluntary non-profit - church,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+151318,DUKES MEMORIAL HOSPITAL,2020,2019,IN,MIAMI,18103,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+160005,ST ANTHONY REGIONAL HOSPITAL & NURSING HOME,2023,2022,IA,CARROLL,19027,voluntary non-profit - private,voluntary non-profit - church,7.0,UNVERIFIED: category change is not evidence of merger
+160124,LAKES REGIONAL HEALTHCARE,2021,2020,IA,Dickinson,19059,voluntary non-profit - other,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+161304,CHI HEALTH - MERCY CORNING,2022,2021,IA,ADAMS,19003,voluntary non-profit - private,voluntary non-profit - church,9.0,UNVERIFIED: category change is not evidence of merger
+161307,HANCOCK COUNTY HEALTH SYSTEM,2020,2019,IA,HANCOCK,19081,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+161315,KEOKUK COUNTY HEALTH CENTER,2022,2021,IA,KEOKUK,19107,voluntary non-profit - other,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+161317,COMPASS MEMORIAL HEALTHCARE,2021,2020,IA,Iowa,19095,voluntary non-profit - other,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+161317,COMPASS MEMORIAL HEALTHCARE,2026,2025,IA,IOWA,19095,government - local,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+161323,MITCHELL COUNTY REGIONAL HEALTH,2021,2020,IA,Mitchell,19131,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+161323,MITCHELL COUNTY REGIONAL HEALTH,2025,2024,IA,MITCHELL,19131,government - local,government - federal,9.0,UNVERIFIED: category change is not evidence of merger
+161324,GEORGE C GRAPE COMMUNITY HOSPITAL,2022,2021,IA,FREMONT,19071,proprietary,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+161325,GREENE COUNTY MEDICAL CENTER,2020,2019,IA,GREENE,19073,government - local,voluntary non-profit - other,8.0,UNVERIFIED: category change is not evidence of merger
+161325,GREENE COUNTY MEDICAL CENTER,2024,2023,IA,GREENE,19073,voluntary non-profit - other,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+161328,REGIONAL HEALTH SERVICES OF HOWARD COUNTY,2020,2019,IA,HOWARD,19089,voluntary non-profit - other,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+161335,BUCHANAN COUNTY HEALTH CENTER,2021,2020,IA,Buchanan,19019,voluntary non-profit - other,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+161338,MERCYONE OELWEIN MEDICAL CENTER,2025,2024,IA,FAYETTE,19065,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+161340,DECATUR COUNTY HOSPITAL,2020,2019,IA,DECATUR,19053,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+161342,MONROE COUNTY HOSPITAL,2022,2021,IA,MONROE,19135,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+161343,REGIONAL MEDICAL CENTER,2021,2020,IA,Delaware,19055,proprietary,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+161347,FLOYD COUNTY MEDICAL CENTER,2022,2021,IA,FLOYD,19067,voluntary non-profit - other,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+161351,AVERA HOLY FAMILY HOSPITAL,2022,2021,IA,EMMET,19063,voluntary non-profit - church,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+161352,CLARINDA REGIONAL HEALTH CENTER,2022,2021,IA,PAGE,19145,voluntary non-profit - other,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+161356,HENRY COUNTY HEALTH CENTER,2025,2024,IA,HENRY,19087,government - local,physician,6.0,UNVERIFIED: category change is not evidence of merger
+161361,VAN DIEST MEDICAL CENTER,2023,2022,IA,HAMILTON,19079,government - local,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+161367,PELLA REGIONAL HEALTH CENTER,2020,2019,IA,MARION,19125,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+161368,FLOYD VALLEY HEALTHCARE,2021,2020,IA,Plymouth,19149,proprietary,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+161369,CRAWFORD COUNTY MEMORIAL HOSPITAL,2021,2020,IA,Crawford,19047,voluntary non-profit - other,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+161373,RINGGOLD COUNTY HOSPITAL,2025,2024,IA,RINGGOLD,19159,government - local,government - state,9.0,UNVERIFIED: category change is not evidence of merger
+161374,MYRTUE MEDICAL CENTER,2020,2019,IA,SHELBY,19165,voluntary non-profit - other,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+161374,MYRTUE MEDICAL CENTER,2025,2024,IA,SHELBY,19165,government - local,voluntary non-profit - other,8.0,UNVERIFIED: category change is not evidence of merger
+170020,HUTCHINSON REGIONAL MEDICAL CENTER INC,2020,2019,KS,RENO,20155,proprietary,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+170023,ST. CATHERINE HOSPITAL - GARDEN CITY,2025,2024,KS,FINNEY,20055,voluntary non-profit - private,voluntary non-profit - church,5.0,UNVERIFIED: category change is not evidence of merger
+170027,PRATT REGIONAL MEDICAL CENTER,2020,2019,KS,PRATT,20151,voluntary non-profit - private,proprietary,7.0,UNVERIFIED: category change is not evidence of merger
+170110,BOB WILSON MEMORIAL GRANT COUNTY HOSPITAL,2020,2019,KS,GRANT,20067,government - local,proprietary,7.0,UNVERIFIED: category change is not evidence of merger
+170191,UNIVERSITY  OF KS HLTH SYSTEM GREAT BEND CAMPUS,2025,2024,KS,BARTON,20009,proprietary,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+171303,LANE COUNTY HOSPITAL,2020,2019,KS,LANE,20101,voluntary non-profit - other,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+171323,STAFFORD COUNTY HOSPITAL,2020,2019,KS,STAFFORD,20185,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+171327,ELLSWORTH COUNTY MEDICAL CENTER,2020,2019,KS,ELLSWORTH,20053,government - local,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+171340,HERINGTON MUNICIPAL HOSPITAL,2020,2019,KS,DICKINSON,20041,government - local,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+171340,HERINGTON HOSPITAL,2022,2021,KS,DICKINSON,20041,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+171345,PAWNEE VALLEY COMMUNITY HOSPITAL,2020,2019,KS,PAWNEE,20145,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+171352,DECATUR COUNTY HOSPITAL,2020,2019,KS,DECATUR,20039,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+171373,ALLEN COUNTY REGIONAL HOSPITAL,2025,2024,KS,ALLEN,20001,government - state,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+180095,CRITTENDEN COMMUNITY HOSPITAL,2020,2019,KY,CRITTENDEN,21055,proprietary,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+181322,CALDWELL MEDICAL CENTER,2021,2020,KY,Caldwell,21033,government - hospital district or authority,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+190014,OCHSNER ST MARY,2023,2022,LA,ST. MARY,22101,proprietary,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+190017,OPELOUSAS GENERAL HEALTH SYSTEM,2024,2023,LA,ST. LANDRY,22097,government - hospital district or authority,voluntary non-profit - other,4.0,UNVERIFIED: category change is not evidence of merger
+190017,OPELOUSAS GENERAL HEALTH SYSTEM,2026,2025,LA,ST. LANDRY,22097,voluntary non-profit - other,government - hospital district or authority,4.0,UNVERIFIED: category change is not evidence of merger
+190025,SAVOY MEDICAL CENTER,2020,2019,LA,EVANGELINE,22039,government - hospital district or authority,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+190054,IBERIA MEDICAL CENTER,2024,2023,LA,IBERIA,22045,government - hospital district or authority,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+190190,"CALDWELL MEMORIAL HOSPITAL, INC",2020,2019,LA,CALDWELL,22021,proprietary,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+190190,"CALDWELL MEMORIAL HOSPITAL, INC",2023,2022,LA,CALDWELL,22021,voluntary non-profit - private,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+190312,OUR LADY OF THE ANGELS HOSPITAL,2020,2019,LA,WASHINGTON,22117,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+201314,REDINGTON FAIRVIEW GENERAL HOSPITAL,2026,2025,ME,SOMERSET,23025,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+230093,COREWELL HEALTH BIG RAPIDS HOSPITAL,2024,2023,MI,MECOSTA,26107,government - local,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+231328,ALLEGAN GENERAL HOSPITAL,2021,2020,MI,Allegan,26005,voluntary non-profit - other,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+241306,OLIVIA HOSPITAL & CLINIC,2024,2023,MN,RENVILLE,27129,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+241333,MAYO CLINIC HEALTH SYSTEM - ST JAMES,2021,2020,MN,Watonwan,27165,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+250027,WINSTON MEDICAL CENTER & SWINGBED,2020,2019,MS,WINSTON,28159,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+250027,WINSTON MEDICAL CENTER & SWINGBED,2024,2023,MS,WINSTON,28159,proprietary,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+250085,MARION GENERAL HOSPITAL,2024,2023,MS,MARION,28091,voluntary non-profit - other,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+250117,HIGHLAND COMMUNITY  HOSPITAL,2022,2021,MS,PEARL RIVER,28109,government - hospital district or authority,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+251306,PERRY COUNTY GENERAL HOSPITAL,2023,2022,MS,GREENE,28041,proprietary,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+251307,NOXUBEE GENERAL CRITICAL ACCESS HOSP,2024,2023,MS,NOXUBEE,28103,government - local,government - state,9.0,UNVERIFIED: category change is not evidence of merger
+251312,TYLER HOLMES MEMORIAL HOSPITAL CAH,2023,2022,MS,MONTGOMERY,28097,voluntary non-profit - private,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+251316,OCHSNER WATKINS HOSPITAL,2023,2022,MS,CLARKE,28023,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+251326,JEFFERSON DAVIS GENERAL HOSPITAL,2022,2021,MS,JEFFERSON DAVIS,28065,government - local,government - state,8.0,UNVERIFIED: category change is not evidence of merger
+260024,TEXAS COUNTY MEMORIAL HOSPITAL,2021,2020,MO,Texas,29215,voluntary non-profit - other,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+260024,TEXAS COUNTY MEMORIAL HOSPITAL,2023,2022,MO,TEXAS,29215,proprietary,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+260024,TEXAS COUNTY MEMORIAL HOSPITAL,2026,2025,MO,TEXAS,29215,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+260025,HANNIBAL REGIONAL HOSPITAL,2021,2020,MO,Marion,29127,voluntary non-profit - private,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+260070,PEMISCOT COUNTY MEMORIAL HOSPITAL,2020,2019,MO,PEMISCOT,29155,government - hospital district or authority,government - local,7.0,UNVERIFIED: category change is not evidence of merger
+260070,PEMISCOT COUNTY MEMORIAL HOSPITAL,2024,2023,MO,PEMISCOT,29155,government - local,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+260078,OZARKS HEALTHCARE,2022,2021,MO,HOWELL,29091,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+260097,WESTERN MISSOURI MEDICAL CENTER,2022,2021,MO,JOHNSON,29101,government - hospital district or authority,government - local,4.0,UNVERIFIED: category change is not evidence of merger
+260113,MISSOURI DELTA MEDICAL CENTER,2022,2021,MO,SCOTT,29201,voluntary non-profit - other,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+260142,FITZGIBBON HOSPITAL,2022,2021,MO,SALINE,29195,voluntary non-profit - private,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+260142,FITZGIBBON HOSPITAL,2024,2023,MO,SALINE,29195,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+261305,PUTNAM COUNTY MEMORIAL HOSPITAL,2020,2019,MO,PUTNAM,29171,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+261311,MERCY HOSPITAL PERRY,2024,2023,MO,PERRY,29157,government - local,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+271305,MCCONE COUNTY HEALTH CENTER,2023,2022,MT,MCCONE,30055,voluntary non-profit - private,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+271313,PIONEER MEDICAL CENTER,2020,2019,MT,SWEET GRASS,30097,government - local,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+271317,LIVINGSTON HEALTHCARE,2024,2023,MT,PARK,30067,voluntary non-profit - private,physician,6.0,UNVERIFIED: category change is not evidence of merger
+271319,RUBY VALLEY MEDICAL CENTER,2020,2019,MT,MADISON,30057,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+271319,RUBY VALLEY MEDICAL CENTER,2025,2024,MT,MADISON,30057,voluntary non-profit - private,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+271321,WHEATLAND MEMORIAL HOSPITAL,2024,2023,MT,WHEATLAND,30107,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+271328,LOGAN HEALTH - SHELBY,2024,2023,MT,TOOLE,30101,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+271329,MADISON VALLEY MEDICAL CENTER,2024,2023,MT,MADISON,30057,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+271332,GLENDIVE MEDICAL CENTER,2024,2023,MT,DAWSON,30021,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+271338,BIG HORN HOSPITAL,2024,2023,MT,BIG HORN,30003,government - local,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+271342,DANIELS MEMORIAL HOSPITAL,2020,2019,MT,DANIELS,30019,government - hospital district or authority,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+271344,SIDNEY HEALTH CENTER,2020,2019,MT,RICHLAND,30083,voluntary non-profit - private,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+271344,SIDNEY HEALTH CENTER,2025,2024,MT,RICHLAND,30083,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+271346,ROUNDUP MEMORIAL HEALTHCARE,2023,2022,MT,MUSSELSHELL,30065,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+280077,METHODIST FREMONT HEALTH,2020,2019,NE,DODGE,31053,government - local,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+280125,FAITH REGIONAL HEALTH SERVICES,2020,2019,NE,MADISON,31119,voluntary non-profit - private,voluntary non-profit - church,5.0,UNVERIFIED: category change is not evidence of merger
+281302,PAWNEE COUNTY MEMORIAL HOSPITAL,2020,2019,NE,PAWNEE,31133,government - local,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+281302,PAWNEE COUNTY MEMORIAL HOSPITAL,2023,2022,NE,PAWNEE,31133,proprietary,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+281315,BRODSTONE MEMORIAL HOSPITAL,2022,2021,NE,NUCKOLLS,31129,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+281315,BRODSTONE HEALTHCARE,2026,2025,NE,NUCKOLLS,31129,proprietary,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+281349,PENDER COMMUNITY HOSPITAL,2021,2020,NE,Thurston,31173,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+291312,GROVER C DILS MEDICAL CENTER,2020,2019,NV,LINCOLN,32017,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+291312,GROVER C DILS MEDICAL CENTER,2022,2021,NV,LINCOLN,32017,government - local,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+291313,BANNER CHURCHILL COMMUNITY HOSPITAL,2020,2019,NV,CHURCHILL,32001,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+320003,ALTA VISTA REGIONAL HOSPITAL,2022,2021,NM,SAN MIGUEL,35047,government - hospital district or authority,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+320022,PLAINS REGIONAL MEDICAL CENTER,2021,2020,NM,Curry,35009,government - federal,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+320030,ARTESIA GENERAL HOSPITAL,2026,2025,NM,EDDY,35015,voluntary non-profit - other,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+320063,CARLSBAD MEDICAL CENTER,2021,2020,NM,Eddy,35015,proprietary,voluntary non-profit - other,5.0,UNVERIFIED: category change is not evidence of merger
+320065,COVENANT HEALTH HOBBS HOSPITAL,2024,2023,NM,LEA,35025,proprietary,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+320084,ROOSEVELT GENERAL HOSPITAL,2021,2020,NM,Roosevelt,35041,government - state,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+320086,LOVELACE REGIONAL HOSPITAL - ROSWELL,2020,2019,NM,CHAVES,35005,proprietary,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+320086,LOVELACE REGIONAL HOSPITAL - ROSWELL,2021,2020,NM,Chaves,35005,voluntary non-profit - private,proprietary,5.0,UNVERIFIED: category change is not evidence of merger
+321300,SIERRA VISTA HOSPITAL,2020,2019,NM,SIERRA,35051,proprietary,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+321301,SOCORRO GENERAL HOSPITAL,2022,2021,NM,SOCORRO,35053,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+321304,UNION COUNTY GENERAL HOSPITAL,2022,2021,NM,UNION,35059,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+321308,CIBOLA GENERAL HOSPITAL,2022,2021,NM,CIBOLA,35006,government - local,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+330144,IRA DAVENPORT MEMORIAL HOSPITAL,2024,2023,NY,STEUBEN,36101,voluntary non-profit - other,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+330151,ST JAMES HOSPITAL,2025,2024,NY,STEUBEN,36101,voluntary non-profit - church,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+331303,GARNET HEALTH MEDICAL CENTER CATSKILLS,2025,2024,NY,SULLIVAN,36105,government - federal,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+331314,SOLDIERS AND SAILORS MEMORIAL HOSPITAL OF YATES,2022,2021,NY,YATES,36123,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+331317,LEWIS COUNTY GENERAL HOSPITAL,2024,2023,NY,LEWIS,36049,voluntary non-profit - other,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+351304,CHI ST ALEXIUS HEALTH TURTLE LAKE,2020,2019,ND,MCLEAN,38055,voluntary non-profit - private,voluntary non-profit - church,8.0,UNVERIFIED: category change is not evidence of merger
+351315,CHI OAKES HOSPITAL,2025,2024,ND,DICKEY,38021,voluntary non-profit - private,voluntary non-profit - church,9.0,UNVERIFIED: category change is not evidence of merger
+351320,UNITY MEDICAL CENTER,2020,2019,ND,WALSH,38099,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+351321,WISHEK COMMUNITY HOSPITAL,2020,2019,ND,MCINTOSH,38051,voluntary non-profit - private,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+351322,ASHLEY MEDICAL CENTER,2020,2019,ND,MCINTOSH,38051,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+351332,HEART OF AMERICA MEDICAL CENTER,2020,2019,ND,PIERCE,38069,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+360148,POMERENE HOSPITAL,2020,2019,OH,HOLMES,39075,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+370004,INTEGRIS MIAMI HOSPITAL,2020,2019,OK,OTTAWA,40115,voluntary non-profit - private,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+370006,INTEGRIS HEALTH PONCA CITY,2024,2023,OK,KAY,40071,proprietary,voluntary non-profit - other,4.0,UNVERIFIED: category change is not evidence of merger
+370015,HILLCREST HOSPITAL PRYOR,2024,2023,OK,MAYES,40097,proprietary,government - hospital district or authority,6.0,UNVERIFIED: category change is not evidence of merger
+370015,HILLCREST HOSPITAL PRYOR,2025,2024,OK,MAYES,40097,government - hospital district or authority,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+370022,JACKSON COUNTY MEMORIAL HOSPITAL AUTHORITY,2026,2025,OK,JACKSON,40065,government - hospital district or authority,voluntary non-profit - other,7.0,UNVERIFIED: category change is not evidence of merger
+370025,SAINT FRANCIS HOSPITAL MUSKOGEE,2020,2019,OK,MUSKOGEE,40101,proprietary,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+370030,STILLWATER MEDICAL-BLACKWELL,2021,2020,OK,Kay,40071,voluntary non-profit - private,government - hospital district or authority,4.0,UNVERIFIED: category change is not evidence of merger
+370034,MCALESTER REGIONAL HEALTH CENTER,2024,2023,OK,PITTSBURG,40121,voluntary non-profit - other,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+370047,"MERCY HOSPITAL ARDMORE, INC",2024,2023,OK,CARTER,40019,voluntary non-profit - private,voluntary non-profit - church,5.0,UNVERIFIED: category change is not evidence of merger
+370049,STILLWATER MEDICAL CENTER,2025,2024,OK,PAYNE,40119,voluntary non-profit - other,government - hospital district or authority,4.0,UNVERIFIED: category change is not evidence of merger
+370089,NORTHEASTERN HEALTH SYSTEM,2021,2020,OK,Cherokee,40021,government - local,government - hospital district or authority,6.0,UNVERIFIED: category change is not evidence of merger
+370100,CHOCTAW MEMORIAL HOSPITAL,2026,2025,OK,CHOCTAW,40023,government - hospital district or authority,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+370229,ALLIANCEHEALTH SEMINOLE,2023,2022,OK,SEMINOLE,40133,proprietary,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+371300,ATOKA COUNTY MEDICAL CENTER,2026,2025,OK,ATOKA,40005,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+371302,"MERCY HOSPITAL WATONGA, INC",2020,2019,OK,BLAINE,40011,voluntary non-profit - church,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+371302,"MERCY HOSPITAL WATONGA, INC",2025,2024,OK,BLAINE,40011,voluntary non-profit - private,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+371303,ROGER MILLS MEMORIAL HOSPITAL,2025,2024,OK,ROGER MILLS,40129,government - hospital district or authority,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+371307,CIMARRON MEMORIAL HOSPITAL,2021,2020,OK,Cimarron,40025,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+371307,CIMARRON MEMORIAL HOSPITAL,2025,2024,OK,CIMARRON,40025,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+371311,JEFFERSON COUNTY HOSPITAL,2020,2019,OK,JEFFERSON,40067,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+371314,THE PHYSICIANS' HOSPITAL IN ANADARKO,2024,2023,OK,CADDO,40015,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+371319,MARY HURLEY HOSPITAL,2020,2019,OK,COAL,40029,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+371319,"COAL COUNTY GENERAL HOSPITAL, INC.",2025,2024,OK,COAL,40029,proprietary,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+371325,CORDELL MEMORIAL HOSPITAL,2022,2021,OK,WASHITA,40149,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+371326,ALLIANCEHEALTH MADILL,2024,2023,OK,MARSHALL,40095,proprietary,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+371327,OKEENE MUNICIPAL HOSPITAL,2022,2021,OK,BLAINE,40011,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+371330,MANGUM REGIONAL MEDICAL CENTER,2022,2021,OK,GREER,40055,proprietary,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+371332,SEILING MUNICIPAL HOSPITAL,2024,2023,OK,DEWEY,40043,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+371333,CREEK NATION COMMUNITY HOSPITAL,2020,2019,OK,OKFUSKEE,40107,government,tribal,8.0,UNVERIFIED: category change is not evidence of merger
+371335,"HASKELL REGIONAL HOSPITAL, INC",2021,2020,OK,Haskell,40061,proprietary,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+371336,NEWMAN MEMORIAL HOSPITAL,2026,2025,OK,ELLIS,40045,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+371337,EASTERN OKLAHOMA MEDICAL CENTER,2024,2023,OK,LE FLORE,40079,government - hospital district or authority,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+371338,HARMON MEMORIAL HOSPITAL,2022,2021,OK,HARMON,40057,government - hospital district or authority,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+390013,EVANGELICAL COMMUNITY HOSPITAL,2020,2019,PA,UNION,42119,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+390056,PENN HIGHLANDS HUNTINGDON,2026,2025,PA,HUNTINGDON,42061,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+390071,LOCK HAVEN HOSPITAL,2021,2020,PA,Clinton,42035,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+390079,ROBERT PACKER HOSPITAL,2020,2019,PA,BRADFORD,42015,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+390086,PENN HIGHLANDS DUBOIS,2025,2024,PA,CLEARFIELD,42033,voluntary non-profit - other,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+390093,CLARION HOSPITAL,2021,2020,PA,Clarion,42031,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+390117,UPMC BEDFORD MEMORIAL,2020,2019,PA,BEDFORD,42009,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+391313,UPMC COLE,2021,2020,PA,Potter,42105,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+420043,CHEROKEE MEDICAL CENTER,2020,2019,SC,CHEROKEE,45021,voluntary non-profit - private,government - hospital district or authority,6.0,UNVERIFIED: category change is not evidence of merger
+420055,MUSC HEALTH MARION MEDICAL CENTER,2020,2019,SC,MARION,45067,proprietary,government - state,6.0,UNVERIFIED: category change is not evidence of merger
+421301,ABBEVILLE AREA MEDICAL CENTER,2023,2022,SC,ABBEVILLE,45001,government - local,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+431302,AVERA MISSOURI RIVER HEALTH CENTER,2023,2022,SD,POTTER,46107,voluntary non-profit - church,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+431312,MARSHALL COUNTY HEALTHCARE CENTER - CAH,2023,2022,SD,MARSHALL,46091,proprietary,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+431314,BENNETT COUNTY HOSPITAL AND NURSING HOME - CAH,2024,2023,SD,BENNETT,46007,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+431315,WAGNER COMMUNITY MEMORIAL HOSPITAL - CAH,2024,2023,SD,CHARLES MIX,46023,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+431317,LANDMANN-JUNGMAN MEMORIAL HOSPITAL - CAH,2021,2020,SD,Bon Homme,46009,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+440007,UNITY MEDICAL CENTER,2022,2021,TN,COFFEE,47031,physician,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+440151,SAINT THOMAS RIVER PARK HOSPITAL,2020,2019,TN,WARREN,47177,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+440153,TENNOVA HEALTHCARE - NEWPORT MEDICAL CENTER,2022,2021,TN,COCKE,47029,voluntary non-profit - church,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+441304,JOHNSON COUNTY COMMUNITY HOSPITAL,2020,2019,TN,JOHNSON,47091,voluntary non-profit - private,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+441304,JOHNSON COUNTY COMMUNITY HOSPITAL,2022,2021,TN,JOHNSON,47091,government - hospital district or authority,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+441313,HANCOCK COUNTY HOSPITAL,2020,2019,TN,HANCOCK,47067,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+441313,HANCOCK COUNTY HOSPITAL,2021,2020,TN,Hancock,47067,voluntary non-profit - private,voluntary non-profit - other,8.0,UNVERIFIED: category change is not evidence of merger
+444005,UNITY PSYCHIATRIC CARE-MARTIN,2025,2024,TN,WEAKLEY,47183,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+450082,CHRISTUS SPOHN HOSPITAL BEEVILLE,2025,2024,TX,BEE,48025,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+450090,NORTH TEXAS MEDICAL CENTER,2026,2025,TX,COOKE,48097,government - hospital district or authority,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+450154,VAL VERDE REGIONAL MEDICAL CENTER,2022,2021,TX,VAL VERDE,48465,proprietary,government - hospital district or authority,5.0,UNVERIFIED: category change is not evidence of merger
+450194,UT HEALTH EAST TEXAS JACKSONVILLE HOSPITAL,2023,2022,TX,CHEROKEE,48073,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+450210,UT HEALTH EAST TEXAS CARTHAGE HOSPITAL,2023,2022,TX,PANOLA,48365,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+450236,CHRISTUS MOTHER FRANCES HOSPITAL SULPHUR SPRINGS,2020,2019,TX,HOPKINS,48223,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+450351,TEXAS HEALTH HARRIS METHODIST HOSPITAL STEPHENVILL,2024,2023,TX,ERATH,48143,voluntary non-profit - private,voluntary non-profit - other,5.0,UNVERIFIED: category change is not evidence of merger
+450351,TEXAS HEALTH HARRIS METHODIST HOSPITAL STEPHENVILL,2026,2025,TX,ERATH,48143,voluntary non-profit - other,voluntary non-profit - private,5.0,UNVERIFIED: category change is not evidence of merger
+450389,UT HEALTH EAST TEXAS ATHENS HOSPITAL,2022,2021,TX,HENDERSON,48213,voluntary non-profit - private,proprietary,4.0,UNVERIFIED: category change is not evidence of merger
+450447,NAVARRO REGIONAL HOSPITAL,2020,2019,TX,NAVARRO,48349,voluntary non-profit - other,government - hospital district or authority,4.0,UNVERIFIED: category change is not evidence of merger
+450508,NACOGDOCHES MEMORIAL HOSPITAL,2024,2023,TX,NACOGDOCHES,48347,government - hospital district or authority,proprietary,5.0,UNVERIFIED: category change is not evidence of merger
+450573,CHRISTUS JASPER MEMORIAL HOSPITAL,2020,2019,TX,JASPER,48241,government - local,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+450604,HILL COUNTRY MEMORIAL HOSPITAL,2024,2023,TX,GILLESPIE,48171,voluntary non-profit - private,proprietary,7.0,UNVERIFIED: category change is not evidence of merger
+450656,NACOGDOCHES MEDICAL CENTER,2022,2021,TX,NACOGDOCHES,48347,physician,voluntary non-profit - other,5.0,UNVERIFIED: category change is not evidence of merger
+450694,EL CAMPO MEMORIAL HOSPITAL,2023,2022,TX,WHARTON,48481,voluntary non-profit - private,voluntary non-profit - other,4.0,UNVERIFIED: category change is not evidence of merger
+450747,PALESTINE REGIONAL MEDICAL CENTER,2024,2023,TX,ANDERSON,48001,proprietary,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+450747,PALESTINE REGIONAL MEDICAL CENTER,2025,2024,TX,ANDERSON,48001,voluntary non-profit - private,proprietary,7.0,UNVERIFIED: category change is not evidence of merger
+451306,KIMBLE HOSPITAL,2021,2020,TX,Kimble,48267,government - hospital district or authority,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+451308,YOAKUM COUNTY HOSPITAL,2026,2025,TX,YOAKUM,48501,government - local,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+451316,MADISON ST JOSEPH HEALTH CENTER,2023,2022,TX,MADISON,48313,voluntary non-profit - church,voluntary non-profit - other,8.0,UNVERIFIED: category change is not evidence of merger
+451316,MADISON ST JOSEPH HEALTH CENTER,2026,2025,TX,MADISON,48313,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+451322,GRIMES ST JOSEPH HEALTH CENTER,2020,2019,TX,GRIMES,48185,voluntary non-profit - private,voluntary non-profit - church,6.0,UNVERIFIED: category change is not evidence of merger
+451322,GRIMES ST JOSEPH HEALTH CENTER,2023,2022,TX,GRIMES,48185,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+451325,CONCHO COUNTY HOSPITAL,2023,2022,TX,CONCHO,48095,government - hospital district or authority,government - local,8.0,UNVERIFIED: category change is not evidence of merger
+451337,W J MANGOLD MEMORIAL HOSPITAL,2026,2025,TX,FLOYD,48153,government - hospital district or authority,physician,8.0,UNVERIFIED: category change is not evidence of merger
+451338,CULBERSON HOSPITAL,2022,2021,TX,CULBERSON,48109,proprietary,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+451344,HANSFORD COUNTY HOSPITAL,2020,2019,TX,HANSFORD,48195,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+451344,HANSFORD COUNTY HOSPITAL,2026,2025,TX,HANSFORD,48195,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger
+451347,COLEMAN COUNTY MEDICAL CENTER COMPANY,2024,2023,TX,COLEMAN,48083,government - hospital district or authority,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+451350,PLAINS MEMORIAL HOSPITAL,2023,2022,TX,CASTRO,48069,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+451367,UT HEALTH EAST TEXAS PITTSBURG HOSPITAL,2023,2022,TX,CAMP,48063,voluntary non-profit - other,proprietary,8.0,UNVERIFIED: category change is not evidence of merger
+451377,REEVES COUNTY HOSPITAL DISTRICT,2023,2022,TX,REEVES,48389,government - local,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+451380,UT HEALTH EAST TEXAS QUITMAN HOSPITAL,2023,2022,TX,WOOD,48499,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+451380,UT HEALTH EAST TEXAS QUITMAN HOSPITAL,2026,2025,TX,WOOD,48499,proprietary,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+451390,DIMMIT REGIONAL HOSPITAL,2025,2024,TX,DIMMIT,48127,voluntary non-profit - other,voluntary non-profit - private,7.0,UNVERIFIED: category change is not evidence of merger
+451393,CROCKETT MEDICAL CENTER,2022,2021,TX,HOUSTON,48225,proprietary,physician,7.0,UNVERIFIED: category change is not evidence of merger
+451394,KNOX COUNTY HOSPITAL,2026,2025,TX,KNOX,48275,government - hospital district or authority,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+451396,MID COAST MEDICAL CENTER - CENTRAL,2024,2023,TX,LLANO,48299,voluntary non-profit - private,physician,7.0,UNVERIFIED: category change is not evidence of merger
+454000,BIG SPRING STATE HOSPITAL,2022,2021,TX,HOWARD,48227,government - state,voluntary non-profit - other,4.0,UNVERIFIED: category change is not evidence of merger
+454000,BIG SPRING STATE HOSPITAL,2025,2024,TX,HOWARD,48227,voluntary non-profit - other,government - state,4.0,UNVERIFIED: category change is not evidence of merger
+461300,DELTA COMMUNITY HOSPITAL,2023,2022,UT,MILLARD,49027,proprietary,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+461305,MILFORD MEMORIAL HOSPITAL,2021,2020,UT,Beaver,49001,government - hospital district or authority,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+461306,GUNNISON VALLEY HOSPITAL,2023,2022,UT,SANPETE,49039,proprietary,voluntary non-profit - other,6.0,UNVERIFIED: category change is not evidence of merger
+461308,SAN JUAN HOSPITAL,2022,2021,UT,SAN JUAN,49037,government - local,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+461309,KANE COUNTY HOSPITAL,2020,2019,UT,KANE,49025,government - local,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+461333,GARFIELD MEMORIAL HOSPITAL,2023,2022,UT,GARFIELD,49017,government - local,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+461335,BEAVER VALLEY HOSPITAL,2022,2021,UT,BEAVER,49001,government - state,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+490090,"SOUTHSIDE COMMUNITY HOSPITAL, INC",2025,2024,VA,PRINCE EDWARD,51147,voluntary non-profit - other,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+490092,BON SECOURS SOUTHAMPTON MEMORIAL HOSPITAL,2024,2023,VA,FRANKLIN CITY,51620,proprietary,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+490098,COMMUNITY MEMORIAL HOSPITAL,2025,2024,VA,MECKLENBURG,51117,voluntary non-profit - private,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+490111,WYTHE COUNTY COMMUNITY HOSPITAL,2022,2021,VA,WYTHE,51197,voluntary non-profit - church,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+490126,LEWISGALE HOSPITAL ALLEGHANY,2025,2024,VA,ALLEGHANY,51005,voluntary non-profit - private,proprietary,6.0,UNVERIFIED: category change is not evidence of merger
+500033,SAMARITAN HOSPITAL,2026,2025,WA,GRANT,53025,government - hospital district or authority,proprietary,5.0,UNVERIFIED: category change is not evidence of merger
+501314,OCEAN BEACH HOSPITAL,2023,2022,WA,PACIFIC,53049,government - state,government - hospital district or authority,7.0,UNVERIFIED: category change is not evidence of merger
+501318,OTHELLO COMMUNITY HOSPITAL,2024,2023,WA,ADAMS,53001,government - hospital district or authority,government - local,6.0,UNVERIFIED: category change is not evidence of merger
+501321,NORTH VALLEY HOSPITAL,2022,2021,WA,OKANOGAN,53047,government - local,government - hospital district or authority,6.0,UNVERIFIED: category change is not evidence of merger
+511301,WEBSTER MEMORIAL HOSPITAL,2023,2022,WV,WEBSTER,54101,voluntary non-profit - other,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+511304,SISTERSVILLE GENERAL HOSPITAL,2021,2020,WV,Tyler,54095,government - local,voluntary non-profit - private,9.0,UNVERIFIED: category change is not evidence of merger
+511304,SISTERSVILLE GENERAL HOSPITAL,2025,2024,WV,TYLER,54095,voluntary non-profit - private,proprietary,9.0,UNVERIFIED: category change is not evidence of merger
+511314,POCAHONTAS MEMORIAL HOSPITAL,2024,2023,WV,POCAHONTAS,54075,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+511316,GRANT MEMORIAL HOSPITAL,2020,2019,WV,GRANT,54023,government - local,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+511316,GRANT MEMORIAL HOSPITAL,2023,2022,WV,GRANT,54023,voluntary non-profit - other,government - local,9.0,UNVERIFIED: category change is not evidence of merger
+511316,GRANT MEMORIAL HOSPITAL,2025,2024,WV,GRANT,54023,government - local,voluntary non-profit - other,9.0,UNVERIFIED: category change is not evidence of merger
+511320,JACKSON GENERAL HOSPITAL,2022,2021,WV,JACKSON,54035,voluntary non-profit - other,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+511322,SUMMERSVILLE REGIONAL MEDICAL CENTER,2022,2021,WV,NICHOLAS,54067,government - local,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+520095,SAUK PRAIRIE HOSPITAL,2020,2019,WI,SAUK,55111,voluntary non-profit - church,voluntary non-profit - private,4.0,UNVERIFIED: category change is not evidence of merger
+521312,MEMORIAL HOSPITAL OF LAFAYETTE COUNTY,2024,2023,WI,LAFAYETTE,55065,government - local,voluntary non-profit - other,8.0,UNVERIFIED: category change is not evidence of merger
+521313,ASCENSION SACRED HEART HOSPITAL,2022,2021,WI,LINCOLN,55069,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+521323,MARSHFIELD MEDICAL CENTER-NEILLSVILLE/ MEMORIAL MEDICAL CENTER,2022,2021,WI,CLARK,55019,voluntary non-profit - church,voluntary non-profit - private,8.0,UNVERIFIED: category change is not evidence of merger
+521328,MARSHFIELD MEDICAL CENTER - LADYSMITH,2023,2022,WI,RUSK,55107,government - local,government - hospital district or authority,8.0,UNVERIFIED: category change is not evidence of merger
+521358,DOOR COUNTY MEDICAL CENTER,2023,2022,WI,DOOR,55029,voluntary non-profit - church,voluntary non-profit - private,6.0,UNVERIFIED: category change is not evidence of merger
+531304,HOT SPRINGS COUNTY MEMORIAL HOSPITAL,2023,2022,WY,HOT SPRINGS,56017,government - local,government - hospital district or authority,9.0,UNVERIFIED: category change is not evidence of merger

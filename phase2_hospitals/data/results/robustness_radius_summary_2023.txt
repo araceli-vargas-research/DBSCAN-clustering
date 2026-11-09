@@ -1,0 +1,46 @@
+STEP 12: CLUSTER-RADIUS ROBUSTNESS
+================================================================================
+
+Spatial coefficient summary:
+ eps_km                       outcome              specification                   term  coefficient  clustered_se      p_value  ci_lower  ci_upper    n  r_squared  adj_r_squared          aic  significant_5pct  same_expected_sign
+      5            CMS overall rating    R1_log_HHI_plus_spatial log_nearest_cluster_km    -0.119952      0.038712 1.944738e-03 -0.195827 -0.044077 2932   0.140728       0.124296  8954.705893              True                True
+      5            CMS overall rating  R2_level_HHI_plus_spatial          distance_10km    -0.053646      0.018199 3.200291e-03 -0.089315 -0.017978 2932   0.141198       0.124774  8953.103841              True                True
+      5            CMS overall rating R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -0.121922      0.039348 1.944747e-03 -0.199043 -0.044801 2892   0.140979       0.124628  8827.348273              True                True
+      5          HCAHPS % rating 9-10    R1_log_HHI_plus_spatial log_nearest_cluster_km    -1.251555      0.297739 2.627820e-05 -1.835113 -0.667998 3947   0.258746       0.248075 28223.541896              True                True
+      5          HCAHPS % rating 9-10  R2_level_HHI_plus_spatial          distance_10km    -0.544246      0.122358 8.668154e-06 -0.784063 -0.304429 3947   0.260470       0.249823 28214.351569              True                True
+      5          HCAHPS % rating 9-10 R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -1.213179      0.318853 1.419067e-04 -1.838119 -0.588238 3883   0.255566       0.244868 27765.626903              True                True
+      5 HCAHPS % definitely recommend    R1_log_HHI_plus_spatial log_nearest_cluster_km    -2.166428      0.328369 4.180107e-11 -2.810019 -1.522837 3947   0.203727       0.192264 29138.192455              True                True
+      5 HCAHPS % definitely recommend  R2_level_HHI_plus_spatial          distance_10km    -0.807888      0.142714 1.505897e-08 -1.087602 -0.528174 3947   0.204103       0.192645 29136.327981              True                True
+      5 HCAHPS % definitely recommend R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -2.061115      0.361017 1.135177e-08 -2.768696 -1.353534 3883   0.196194       0.184642 28683.328682              True                True
+     10            CMS overall rating    R1_log_HHI_plus_spatial log_nearest_cluster_km    -0.221358      0.060221 2.371465e-04 -0.339388 -0.103327 2932   0.142910       0.126519  8947.253222              True                True
+     10            CMS overall rating  R2_level_HHI_plus_spatial          distance_10km    -0.058862      0.019316 2.308624e-03 -0.096720 -0.021004 2932   0.142169       0.125764  8949.786459              True                True
+     10            CMS overall rating R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -0.222655      0.060460 2.308057e-04 -0.341155 -0.104155 2915   0.142103       0.125905  8895.916093              True                True
+     10          HCAHPS % rating 9-10    R1_log_HHI_plus_spatial log_nearest_cluster_km    -1.938661      0.391307 7.258152e-07 -2.705608 -1.171714 3947   0.258358       0.247681 28225.607229              True                True
+     10          HCAHPS % rating 9-10  R2_level_HHI_plus_spatial          distance_10km    -0.565359      0.123345 4.570823e-06 -0.807110 -0.323609 3947   0.259190       0.248525 28221.176918              True                True
+     10          HCAHPS % rating 9-10 R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -1.954410      0.391230 5.866634e-07 -2.721206 -1.187614 3919   0.256673       0.246090 28009.540108              True                True
+     10 HCAHPS % definitely recommend    R1_log_HHI_plus_spatial log_nearest_cluster_km    -2.516889      0.433223 6.259161e-09 -3.365990 -1.667787 3947   0.202710       0.191233 29143.227749              True                True
+     10 HCAHPS % definitely recommend  R2_level_HHI_plus_spatial          distance_10km    -0.715286      0.131174 4.954202e-08 -0.972383 -0.458189 3947   0.203479       0.192012 29139.422285              True                True
+     10 HCAHPS % definitely recommend R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -2.527636      0.441722 1.051321e-08 -3.393394 -1.661877 3919   0.196042       0.184596 28941.991072              True                True
+     15            CMS overall rating    R1_log_HHI_plus_spatial log_nearest_cluster_km    -0.306335      0.082762 2.144107e-04 -0.468545 -0.144125 2932   0.144146       0.127778  8943.022504              True                True
+     15            CMS overall rating  R2_level_HHI_plus_spatial          distance_10km    -0.068186      0.021487 1.507123e-03 -0.110300 -0.026072 2932   0.143941       0.127570  8943.722755              True                True
+     15            CMS overall rating R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -0.311681      0.082991 1.729371e-04 -0.474341 -0.149021 2916   0.143388       0.127220  8895.897366              True                True
+     15          HCAHPS % rating 9-10    R1_log_HHI_plus_spatial log_nearest_cluster_km    -2.982066      0.469334 2.100249e-10 -3.901943 -2.062188 3947   0.261861       0.251235 28206.916205              True                True
+     15          HCAHPS % rating 9-10  R2_level_HHI_plus_spatial          distance_10km    -0.625810      0.131766 2.040203e-06 -0.884067 -0.367553 3947   0.261218       0.250582 28210.356626              True                True
+     15          HCAHPS % rating 9-10 R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -3.025806      0.469092 1.115917e-10 -3.945209 -2.106403 3920   0.260450       0.249923 27996.215932              True                True
+     15 HCAHPS % definitely recommend    R1_log_HHI_plus_spatial log_nearest_cluster_km    -3.720522      0.523835 1.225477e-12 -4.747220 -2.693824 3947   0.207173       0.195759 29121.073622              True                True
+     15 HCAHPS % definitely recommend  R2_level_HHI_plus_spatial          distance_10km    -0.788944      0.140013 1.752533e-08 -1.063363 -0.514524 3947   0.206518       0.195096 29124.330481              True                True
+     15 HCAHPS % definitely recommend R3_log_bedHHI_plus_spatial log_nearest_cluster_km    -3.802986      0.532410 9.134211e-13 -4.846491 -2.759481 3920   0.201441       0.190074 28922.908682              True                True
+
+Compact matrix:
+                      outcome              specification  coefficient_eps5  coefficient_eps10  coefficient_eps15  p_value_eps5  p_value_eps10  p_value_eps15
+           CMS overall rating    R1_log_HHI_plus_spatial         -0.119952          -0.221358          -0.306335  1.944738e-03   2.371465e-04   2.144107e-04
+           CMS overall rating  R2_level_HHI_plus_spatial         -0.053646          -0.058862          -0.068186  3.200291e-03   2.308624e-03   1.507123e-03
+           CMS overall rating R3_log_bedHHI_plus_spatial         -0.121922          -0.222655          -0.311681  1.944747e-03   2.308057e-04   1.729371e-04
+HCAHPS % definitely recommend    R1_log_HHI_plus_spatial         -2.166428          -2.516889          -3.720522  4.180107e-11   6.259161e-09   1.225477e-12
+HCAHPS % definitely recommend  R2_level_HHI_plus_spatial         -0.807888          -0.715286          -0.788944  1.505897e-08   4.954202e-08   1.752533e-08
+HCAHPS % definitely recommend R3_log_bedHHI_plus_spatial         -2.061115          -2.527636          -3.802986  1.135177e-08   1.051321e-08   9.134211e-13
+         HCAHPS % rating 9-10    R1_log_HHI_plus_spatial         -1.251555          -1.938661          -2.982066  2.627820e-05   7.258152e-07   2.100249e-10
+         HCAHPS % rating 9-10  R2_level_HHI_plus_spatial         -0.544246          -0.565359          -0.625810  8.668154e-06   4.570823e-06   2.040203e-06
+         HCAHPS % rating 9-10 R3_log_bedHHI_plus_spatial         -1.213179          -1.954410          -3.025806  1.419067e-04   5.866634e-07   1.115917e-10
+
+Interpretation rule: a robust spatial result should retain the expected negative sign across 5/10/15 km and preferably remain statistically distinguishable from zero under both log-distance and level-distance specifications.

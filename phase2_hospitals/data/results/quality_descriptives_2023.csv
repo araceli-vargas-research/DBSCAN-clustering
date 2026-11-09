@@ -1,0 +1,3 @@
+rural,hospitals,mean_rating,median_rating,median_hhi_count,median_nearest_cluster_km,rural_label
+0.0,2148,3.213221601489758,3.0,3333.333333333333,22.065339896599177,metro
+1.0,784,3.142857142857143,3.0,10000.0,30.26729968753437,rural

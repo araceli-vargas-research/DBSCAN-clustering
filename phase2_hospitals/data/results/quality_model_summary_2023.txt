@@ -1,0 +1,39 @@
+2023 CMS HOSPITAL OVERALL RATING MODELS
+============================================================================
+
+Descriptives:
+ rural  hospitals  mean_rating  median_rating  median_hhi_count  median_nearest_cluster_km rural_label
+   0.0       2148     3.213222            3.0       3333.333333                   22.06534       metro
+   1.0        784     3.142857            3.0      10000.000000                   30.26730       rural
+
+Model comparison:
+                  model    n  r_squared  adj_r_squared         aic         bic  design_columns  design_rank  rank_deficiency  rating_change_if_distance_doubles
+            Q1_HHI_only 2932   0.138543       0.122374 8960.152617 9289.241820              55           55                0                                NaN
+        Q2_Spatial_only 2932   0.142128       0.126026 8947.927788 9277.016992              55           55                0                          -0.150733
+    Q3_HHI_plus_spatial 2932   0.142910       0.126519 8947.253222 9282.325865              56           56                0                          -0.153433
+    Q4_With_interaction 2932   0.142930       0.126235 8949.185249 9290.241333              57           57                0                          -0.147252
+Q5_Bed_HHI_plus_spatial 2915   0.142103       0.125905 8895.916093 9224.685473              55           55                0                          -0.154333
+
+Key coefficients:
+                  model                 outcome                         term  coefficient  clustered_se  p_value  ci_lower  ci_upper    n  r_squared  adj_r_squared         aic         bic
+            Q1_HHI_only hospital_overall_rating             hhi_count_scaled     0.019469      0.015626 0.212790 -0.011157  0.050095 2932   0.138543       0.122374 8960.152617 9289.241820
+            Q1_HHI_only hospital_overall_rating                        rural    -0.142808      0.059858 0.017042 -0.260127 -0.025490 2932   0.138543       0.122374 8960.152617 9289.241820
+            Q1_HHI_only hospital_overall_rating             log_cluster_size     0.058982      0.045437 0.194257 -0.030074  0.148038 2932   0.138543       0.122374 8960.152617 9289.241820
+        Q2_Spatial_only hospital_overall_rating       log_nearest_cluster_km    -0.217462      0.060907 0.000356 -0.336838 -0.098085 2932   0.142128       0.126026 8947.927788 9277.016992
+        Q2_Spatial_only hospital_overall_rating                        rural    -0.041024      0.060747 0.499466 -0.160085  0.078037 2932   0.142128       0.126026 8947.927788 9277.016992
+        Q2_Spatial_only hospital_overall_rating             log_cluster_size     0.028958      0.023803 0.223764 -0.017694  0.075610 2932   0.142128       0.126026 8947.927788 9277.016992
+    Q3_HHI_plus_spatial hospital_overall_rating             hhi_count_scaled     0.021590      0.015957 0.176051 -0.009685  0.052866 2932   0.142910       0.126519 8947.253222 9282.325865
+    Q3_HHI_plus_spatial hospital_overall_rating       log_nearest_cluster_km    -0.221358      0.060221 0.000237 -0.339388 -0.103327 2932   0.142910       0.126519 8947.253222 9282.325865
+    Q3_HHI_plus_spatial hospital_overall_rating                        rural    -0.068383      0.062152 0.271218 -0.190198  0.053432 2932   0.142910       0.126519 8947.253222 9282.325865
+    Q3_HHI_plus_spatial hospital_overall_rating             log_cluster_size     0.078167      0.048337 0.105848 -0.016571  0.172905 2932   0.142910       0.126519 8947.253222 9282.325865
+    Q4_With_interaction hospital_overall_rating             hhi_count_scaled     0.021489      0.015950 0.177898 -0.009773  0.052750 2932   0.142930       0.126235 8949.185249 9290.241333
+    Q4_With_interaction hospital_overall_rating       log_nearest_cluster_km    -0.212439      0.071550 0.002987 -0.352676 -0.072203 2932   0.142930       0.126235 8949.185249 9290.241333
+    Q4_With_interaction hospital_overall_rating                        rural     0.036280      0.411037 0.929666 -0.769339  0.841899 2932   0.142930       0.126235 8949.185249 9290.241333
+    Q4_With_interaction hospital_overall_rating log_nearest_cluster_km:rural    -0.031536      0.123005 0.797658 -0.272622  0.209550 2932   0.142930       0.126235 8949.185249 9290.241333
+    Q4_With_interaction hospital_overall_rating             log_cluster_size     0.077397      0.048389 0.109719 -0.017445  0.172238 2932   0.142930       0.126235 8949.185249 9290.241333
+Q5_Bed_HHI_plus_spatial hospital_overall_rating              hhi_beds_scaled     0.023743      0.020246 0.240917 -0.015939  0.063425 2915   0.142103       0.125905 8895.916093 9224.685473
+Q5_Bed_HHI_plus_spatial hospital_overall_rating       log_nearest_cluster_km    -0.222655      0.060460 0.000231 -0.341155 -0.104155 2915   0.142103       0.125905 8895.916093 9224.685473
+Q5_Bed_HHI_plus_spatial hospital_overall_rating                        rural    -0.067235      0.062618 0.282940 -0.189964  0.055494 2915   0.142103       0.125905 8895.916093 9224.685473
+Q5_Bed_HHI_plus_spatial hospital_overall_rating             log_cluster_size     0.079793      0.054327 0.141898 -0.026686  0.186272 2915   0.142103       0.125905 8895.916093 9224.685473
+
+Interpretation caution: these are observational 2023 cross-sectional associations. They do not identify causal effects of concentration or spatial isolation on quality.

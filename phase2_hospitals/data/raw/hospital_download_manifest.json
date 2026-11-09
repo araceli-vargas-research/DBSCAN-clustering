@@ -1,0 +1,74 @@
+[
+  {
+    "snapshot": "2019-04-04",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2019-04-04.zip",
+    "archive_member": "Hospital General Information.csv",
+    "file": "data/raw/hospital_2019-04-04.csv",
+    "bytes": 2500182,
+    "sha256": "0382f16b32b4299ced8c16f9b258cb29eac7d8190dbf255d0e39786c9a1cdf85",
+    "retrieved_utc": "2026-10-07T05:19:34.473901+00:00"
+  },
+  {
+    "snapshot": "2020-10-16",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2020-10-16.zip",
+    "archive_member": "xubh-q36u.csv",
+    "file": "data/raw/hospital_2020-10-16.csv",
+    "bytes": 1762826,
+    "sha256": "6d72ec1a004685a4e755a9bb03c04bb52b835cb91a449f8962b9a6f691266813",
+    "retrieved_utc": "2026-10-07T05:19:35.789915+00:00"
+  },
+  {
+    "snapshot": "2021-07-21",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2021-07-21.zip",
+    "archive_member": "Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2021-07-21.csv",
+    "bytes": 1398540,
+    "sha256": "3db088a84d54bb7f9b1946eafdffdc61659e46a78825137a46d06cd996c1e495",
+    "retrieved_utc": "2026-10-07T05:19:37.127998+00:00"
+  },
+  {
+    "snapshot": "2022-10-06",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2022-10-06.zip",
+    "archive_member": "hospitals_10_2022/Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2022-10-06.csv",
+    "bytes": 1409702,
+    "sha256": "67624dc71be54a0d63fd57c125331792d3e1bd2144ac257778905b784ae149ed",
+    "retrieved_utc": "2026-10-07T05:19:38.416014+00:00"
+  },
+  {
+    "snapshot": "2023-11-06",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2023-11-06.zip",
+    "archive_member": "hospitals_11_2023/Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2023-11-06.csv",
+    "bytes": 1462222,
+    "sha256": "9ce17532ad65fd2cfb32dd3c51f246d45fc715f9b9601d0d7dd9e8f657a34f7d",
+    "retrieved_utc": "2026-10-07T05:19:39.804371+00:00"
+  },
+  {
+    "snapshot": "2024-10-30",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2024-10-30.zip",
+    "archive_member": "Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2024-10-30.csv",
+    "bytes": 1468150,
+    "sha256": "05c1cc7f7578822bdebcbccde6e5e730b1f5b7000d559f258c3eba6438246879",
+    "retrieved_utc": "2026-10-07T05:19:41.210750+00:00"
+  },
+  {
+    "snapshot": "2025-11-26",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2025-11-26.zip",
+    "archive_member": "Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2025-11-26.csv",
+    "bytes": 1474724,
+    "sha256": "fd9977b233bf1a738e68c4d54a4ada639b2159df48560a2421b57a9525142ee9",
+    "retrieved_utc": "2026-10-07T05:19:42.780639+00:00"
+  },
+  {
+    "snapshot": "2026-05-13",
+    "url": "https://data.cms.gov/provider-data/sites/default/files/dataset-archives/theme/hospitals/hospitals_2026-05-13.zip",
+    "archive_member": "Hospital_General_Information.csv",
+    "file": "data/raw/hospital_2026-05-13.csv",
+    "bytes": 1453884,
+    "sha256": "83c98b2e8687580e0482b13e1e9acd5813534be243e5ccd9f55556a869595d40",
+    "retrieved_utc": "2026-10-07T05:19:44.077290+00:00"
+  }
+]

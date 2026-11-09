@@ -1,0 +1,20 @@
+                              model               outcome              term  coefficient       se  p_value  ci_lower  ci_upper     n  facilities  county_clusters                    years
+        Main: all eligible counties worse_hospitalization          hhi_1000     0.000538 0.002519 0.830782 -0.004402  0.005479 31605        6828             1796 2020,2021,2022,2023,2024
+        Main: all eligible counties worse_hospitalization       major_chain    -0.009009 0.017829 0.613396 -0.043976  0.025958 31605        6828             1796 2020,2021,2022,2023,2024
+        Main: all eligible counties worse_hospitalization      log_stations    -0.035747 0.027367 0.191638 -0.089421  0.017926 31605        6828             1796 2020,2021,2022,2023,2024
+         Sensitivity: 2+ facilities worse_hospitalization          hhi_1000    -0.001099 0.003081 0.721328 -0.007146  0.004948 27275        5971              941 2020,2021,2022,2023,2024
+         Sensitivity: 2+ facilities worse_hospitalization       major_chain    -0.009116 0.019100 0.633261 -0.046600  0.028367 27275        5971              941 2020,2021,2022,2023,2024
+         Sensitivity: 2+ facilities worse_hospitalization      log_stations    -0.050139 0.036285 0.167357 -0.121349  0.021070 27275        5971              941 2020,2021,2022,2023,2024
+       Sensitivity: no OTHER labels worse_hospitalization          hhi_1000     0.002434 0.002470 0.324506 -0.002410  0.007279 29019        6668             1796 2020,2021,2022,2023,2024
+       Sensitivity: no OTHER labels worse_hospitalization       major_chain    -0.004988 0.019015 0.793096 -0.042281  0.032305 29019        6668             1796 2020,2021,2022,2023,2024
+       Sensitivity: no OTHER labels worse_hospitalization      log_stations    -0.008384 0.018262 0.646200 -0.044201  0.027432 29019        6668             1796 2020,2021,2022,2023,2024
+Sensitivity: no legacy/OTHER labels worse_hospitalization          hhi_1000     0.002486 0.002626 0.344017 -0.002665  0.007636 27699        6460             1785 2020,2021,2022,2023,2024
+Sensitivity: no legacy/OTHER labels worse_hospitalization       major_chain     0.008817 0.023351 0.705793 -0.036982  0.054615 27699        6460             1785 2020,2021,2022,2023,2024
+Sensitivity: no legacy/OTHER labels worse_hospitalization      log_stations    -0.014021 0.018258 0.442638 -0.049830  0.021789 27699        6460             1785 2020,2021,2022,2023,2024
+          Sensitivity: exclude 2020 worse_hospitalization          hhi_1000     0.000537 0.003033 0.859456 -0.005412  0.006486 25225        6759             1788      2021,2022,2023,2024
+          Sensitivity: exclude 2020 worse_hospitalization       major_chain    -0.015959 0.019983 0.424604 -0.055152  0.023233 25225        6759             1788      2021,2022,2023,2024
+          Sensitivity: exclude 2020 worse_hospitalization      log_stations    -0.059363 0.043488 0.172404 -0.144655  0.025928 25225        6759             1788      2021,2022,2023,2024
+   Facility fragmentation benchmark worse_hospitalization hhi_facility_1000     0.003290 0.002857 0.249656 -0.002314  0.008894 31605        6828             1796 2020,2021,2022,2023,2024
+   Facility fragmentation benchmark worse_hospitalization       major_chain    -0.008562 0.017874 0.631988 -0.043618  0.026494 31605        6828             1796 2020,2021,2022,2023,2024
+   Facility fragmentation benchmark worse_hospitalization      log_stations    -0.035305 0.027442 0.198428 -0.089126  0.018517 31605        6828             1796 2020,2021,2022,2023,2024
+Panel rows 31989 unique facilities 7212 outcome years [np.int32(2020), np.int32(2021), np.int32(2022), np.int32(2023), np.int32(2024)]

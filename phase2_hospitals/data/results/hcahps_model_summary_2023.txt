@@ -1,0 +1,58 @@
+2023 HCAHPS PATIENT EXPERIENCE MODELS
+============================================================================
+
+Selected rating measure: H_HSP_RATING_9_10
+Selected recommend measure: H_RECMND_DY
+
+Descriptives:
+                 outcome  rural rural_label  hospitals      mean  median  median_nearest_cluster_km
+         pct_rating_9_10    0.0       metro       2551 68.488828    69.0                  22.609157
+         pct_rating_9_10    1.0       rural       1396 72.282951    72.0                  30.644891
+pct_definitely_recommend    0.0       metro       2551 68.076441    69.0                  22.609157
+pct_definitely_recommend    1.0       rural       1396 69.069484    69.0                  30.644891
+
+Model comparison:
+                      outcome                   model    n  r_squared  adj_r_squared          aic  outcome_change_if_distance_doubles
+         HCAHPS % rating 9-10             H1_HHI_only 3947   0.253286       0.242731 28250.508412                                 NaN
+         HCAHPS % rating 9-10         H2_Spatial_only 3947   0.257533       0.247038 28227.992498                           -1.376299
+         HCAHPS % rating 9-10     H3_HHI_plus_spatial 3947   0.258358       0.247681 28225.607229                           -1.343778
+         HCAHPS % rating 9-10     H4_With_interaction 3947   0.259852       0.249004 28219.647116                           -0.811288
+         HCAHPS % rating 9-10 H5_Bed_HHI_plus_spatial 3919   0.256673       0.246090 28009.540108                           -1.354694
+HCAHPS % definitely recommend             H1_HHI_only 3947   0.195427       0.184054 29177.122661                                 NaN
+HCAHPS % definitely recommend         H2_Spatial_only 3947   0.195684       0.184315 29175.859993                           -1.847432
+HCAHPS % definitely recommend     H3_HHI_plus_spatial 3947   0.202710       0.191233 29143.227749                           -1.744574
+HCAHPS % definitely recommend     H4_With_interaction 3947   0.204016       0.192349 29138.759328                           -1.205342
+HCAHPS % definitely recommend H5_Bed_HHI_plus_spatial 3919   0.196042       0.184596 28941.991072                           -1.752023
+
+Key coefficients:
+                      outcome                   model                         term  coefficient  clustered_se      p_value  ci_lower  ci_upper    n  r_squared  adj_r_squared          aic
+         HCAHPS % rating 9-10             H1_HHI_only             hhi_count_scaled    -0.230367      0.112663 4.087939e-02 -0.451182 -0.009552 3947   0.253286       0.242731 28250.508412
+         HCAHPS % rating 9-10             H1_HHI_only                        rural    -0.572343      0.374721 1.266659e-01 -1.306784  0.162098 3947   0.253286       0.242731 28250.508412
+         HCAHPS % rating 9-10         H2_Spatial_only       log_nearest_cluster_km    -1.985580      0.393060 4.381270e-07 -2.755963 -1.215197 3947   0.257533       0.247038 28227.992498
+         HCAHPS % rating 9-10         H2_Spatial_only                        rural    -0.214572      0.377892 5.701623e-01 -0.955228  0.526083 3947   0.257533       0.247038 28227.992498
+         HCAHPS % rating 9-10     H3_HHI_plus_spatial             hhi_count_scaled    -0.200513      0.112867 7.564264e-02 -0.421728  0.020702 3947   0.258358       0.247681 28225.607229
+         HCAHPS % rating 9-10     H3_HHI_plus_spatial       log_nearest_cluster_km    -1.938661      0.391307 7.258152e-07 -2.705608 -1.171714 3947   0.258358       0.247681 28225.607229
+         HCAHPS % rating 9-10     H3_HHI_plus_spatial                        rural    -0.012785      0.392517 9.740169e-01 -0.782103  0.756534 3947   0.258358       0.247681 28225.607229
+         HCAHPS % rating 9-10     H4_With_interaction             hhi_count_scaled    -0.211951      0.111000 5.620121e-02 -0.429507  0.005605 3947   0.259852       0.249004 28219.647116
+         HCAHPS % rating 9-10     H4_With_interaction       log_nearest_cluster_km    -1.170441      0.467454 1.228456e-02 -2.086634 -0.254248 3947   0.259852       0.249004 28219.647116
+         HCAHPS % rating 9-10     H4_With_interaction                        rural     6.788067      2.449880 5.592311e-03  1.986389 11.589744 3947   0.259852       0.249004 28219.647116
+         HCAHPS % rating 9-10     H4_With_interaction log_nearest_cluster_km:rural    -2.050559      0.730536 5.001695e-03 -3.482382 -0.618735 3947   0.259852       0.249004 28219.647116
+         HCAHPS % rating 9-10 H5_Bed_HHI_plus_spatial              hhi_beds_scaled    -0.040272      0.136061 7.672444e-01 -0.306947  0.226404 3919   0.256673       0.246090 28009.540108
+         HCAHPS % rating 9-10 H5_Bed_HHI_plus_spatial       log_nearest_cluster_km    -1.954410      0.391230 5.866634e-07 -2.721206 -1.187614 3919   0.256673       0.246090 28009.540108
+         HCAHPS % rating 9-10 H5_Bed_HHI_plus_spatial                        rural    -0.174413      0.393356 6.574781e-01 -0.945376  0.596550 3919   0.256673       0.246090 28009.540108
+HCAHPS % definitely recommend             H1_HHI_only             hhi_count_scaled    -0.672922      0.124065 5.829616e-08 -0.916085 -0.429759 3947   0.195427       0.184054 29177.122661
+HCAHPS % definitely recommend             H1_HHI_only                        rural    -2.555207      0.425985 1.993281e-09 -3.390122 -1.720292 3947   0.195427       0.184054 29177.122661
+HCAHPS % definitely recommend         H2_Spatial_only       log_nearest_cluster_km    -2.665280      0.451458 3.553887e-09 -3.550121 -1.780440 3947   0.195684       0.184315 29175.859993
+HCAHPS % definitely recommend         H2_Spatial_only                        rural    -2.466948      0.427059 7.622853e-09 -3.303969 -1.629927 3947   0.195684       0.184315 29175.859993
+HCAHPS % definitely recommend     H3_HHI_plus_spatial             hhi_count_scaled    -0.634164      0.121539 1.810912e-07 -0.872376 -0.395951 3947   0.202710       0.191233 29143.227749
+HCAHPS % definitely recommend     H3_HHI_plus_spatial       log_nearest_cluster_km    -2.516889      0.433223 6.259161e-09 -3.365990 -1.667787 3947   0.202710       0.191233 29143.227749
+HCAHPS % definitely recommend     H3_HHI_plus_spatial                        rural    -1.828754      0.439614 3.183745e-05 -2.690381 -0.967126 3947   0.202710       0.191233 29143.227749
+HCAHPS % definitely recommend     H4_With_interaction             hhi_count_scaled    -0.645746      0.120703 8.800860e-08 -0.882319 -0.409173 3947   0.204016       0.192349 29138.759328
+HCAHPS % definitely recommend     H4_With_interaction       log_nearest_cluster_km    -1.738942      0.524443 9.138564e-04 -2.766831 -0.711052 3947   0.204016       0.192349 29138.759328
+HCAHPS % definitely recommend     H4_With_interaction                        rural     5.058204      2.756300 6.648456e-02 -0.344045 10.460453 3947   0.204016       0.192349 29138.759328
+HCAHPS % definitely recommend     H4_With_interaction log_nearest_cluster_km:rural    -2.076521      0.824967 1.183269e-02 -3.693427 -0.459615 3947   0.204016       0.192349 29138.759328
+HCAHPS % definitely recommend H5_Bed_HHI_plus_spatial              hhi_beds_scaled    -0.446359      0.154886 3.953408e-03 -0.749929 -0.142788 3919   0.196042       0.184596 28941.991072
+HCAHPS % definitely recommend H5_Bed_HHI_plus_spatial       log_nearest_cluster_km    -2.527636      0.441722 1.051321e-08 -3.393394 -1.661877 3919   0.196042       0.184596 28941.991072
+HCAHPS % definitely recommend H5_Bed_HHI_plus_spatial                        rural    -2.165890      0.444399 1.094960e-06 -3.036895 -1.294885 3919   0.196042       0.184596 28941.991072
+
+Caution: these are observational cross-sectional associations, not causal effects.
